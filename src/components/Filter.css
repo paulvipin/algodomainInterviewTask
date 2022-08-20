@@ -1,0 +1,26 @@
+.Filter{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    box-shadow: 1px 2px 9px #F4AAB9;
+}
+
+.SearchFilter{
+    padding-left: 50px;
+    padding-right: 50px;
+    width: 20%;
+    height: 40px;
+    background-color: lightgray;
+    box-shadow: -1px -2px -9px #F4AAB9;
+    border-radius: 50px;
+  }
+
+  .Range{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+  }

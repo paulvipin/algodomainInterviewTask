@@ -1,0 +1,22 @@
+.Category{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 1px 2px 9px #F4AAB9;
+    height: 40%;
+}
+
+.Dropdown{
+    list-style: none;
+    
+}
+
+.drop{
+    justify-content: left;
+}
+
+.Dropdown li{
+    color: rgb(90 150 225);
+}
